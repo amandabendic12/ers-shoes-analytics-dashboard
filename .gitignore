@@ -1,0 +1,31 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Logs
+*.log
+
+# Environment / credentials
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# IDE folders
+.vscode/
+.idea/
+
+# Dependency folders if added later
+vendor/
+node_modules/
+
+# XAMPP local files
+xampp/

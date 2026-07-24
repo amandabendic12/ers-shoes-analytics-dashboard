@@ -1,0 +1,25 @@
+{
+  "repository_name": "ers-shoes-analytics-dashboard",
+  "project_positioning": "Data Analyst portfolio project",
+  "main_application_folder": "MSBD",
+  "database_file": "MSBD/db_sepatu.sql",
+  "database_name": "db_sepatu",
+  "main_dashboard": "MSBD/admin/analytics.php",
+  "recommended_github_files": [
+    "README.md",
+    ".gitignore",
+    "LICENSE",
+    "portfolio_description.md",
+    "docs/sql_analysis_queries.md",
+    "docs/screenshot_guide.md",
+    "MSBD/"
+  ],
+  "portfolio_focus": [
+    "SQL analysis",
+    "business KPI dashboard",
+    "sales analysis",
+    "inventory analysis",
+    "low-stock monitoring",
+    "CSV export"
+  ]
+}
